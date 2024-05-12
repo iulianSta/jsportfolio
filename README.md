@@ -2,10 +2,23 @@
 
 Portfolio project created using Html, Css, Bootstrap and Javascript.
 
+## Screenshots
+
+![App Screenshot](./images/portfolio.png)
+
 ## Acknowledgements
 
  - [ThemeWagon](https://themewagon.com)
  - [Colorlib](https://colorlib.com/wp/templates/)
+
+ ## Credits
+
+ - Bootstrap 4
+ - jQuery
+ - Font Awesome
+ - Unsplash
+ - Owl carousel
+ - Magnific-popup
 
  ## Authors
 
